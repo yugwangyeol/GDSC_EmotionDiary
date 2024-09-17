@@ -69,5 +69,5 @@
 
 ## 7. 발표 자료&참고 자료
 
-[GDSC_EmotionDiary 영상](https://www.youtube.com/watch?v=NavnIGM5ckc)
+[GDSC_EmotionDiary 영상](https://www.youtube.com/watch?v=NavnIGM5ckc)  
 [GDSC EmotionDiary organization](https://github.com/SolutionChallengeGDSC)
